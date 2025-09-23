@@ -262,7 +262,7 @@ npm install
 
 **Daksh Raut**
 - GitHub: [@dakshraut](https://github.com/dakshraut)
-- LinkedIn: [Your Profile](https://linkedin.com/in/www.linkedin.com/in/daksh-raut-a659b0250)
+- LinkedIn: [daksh-raut-a659b0250](https://www.linkedin.com/in/daksh-raut-a659b0250/)
 
 ## 📜 License
 
