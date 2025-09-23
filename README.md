@@ -1,3 +1,6 @@
+Great! You need to replace the placeholder links with your actual URLs. Here's your updated README with the correct links:
+
+```markdown
 # Algorithm Visualizer 🚀
 
 A comprehensive, interactive web application for visualizing and comparing computer science algorithms with beautiful animations and real-time performance metrics.
@@ -8,7 +11,7 @@ A comprehensive, interactive web application for visualizing and comparing compu
 
 ## 🌟 Live Demo
 
-**[👉 View Live Demo](https://your-deployed-link.vercel.app)**
+**[👉 View Live Demo](https://algorithm-visualizer-dakshraut.vercel.app)**
 
 ## 📸 Preview
 
@@ -16,11 +19,11 @@ A comprehensive, interactive web application for visualizing and comparing compu
   
 | Sorting Algorithms | Pathfinding | Search Algorithms |
 |--------------------|-------------|-------------------|
-| <img src="https://via.placeholder.com/300x200/4F46E5/FFFFFF?text=Sorting+Visualization" width="250"> | <img src="https://via.placeholder.com/300x200/EC4899/FFFFFF?text=Pathfinding" width="250"> | <img src="https://via.placeholder.com/300x200/10B981/FFFFFF?text=Search+Algorithms" width="250"> |
+| <img src="https://1drv.ms/i/c/13de13d1ec99795c/ERU490dRq5xFpL4WXWt9u6MB1l9Q4nuICEWX0jnlqN88pg?e=jnt8N4" width="250"> | <img src="https://1drv.ms/i/c/13de13d1ec99795c/EVD5aplK-vVAgce0tJozSXkBPi0EUX1YBcc7LVGUnbMgjw?e=JnT7LV" width="250"> | <img src="Chttps://1drv.ms/i/c/13de13d1ec99795c/EdTHgOq0z39LvtSnjD_LBxIBB76X5xB_L8bkQ9VS7rh69w?e=C09NNd" width="250"> |
 
-| Algorithm Comparison | Mobile Responsive |
+| Algorithm Comparison
 |---------------------|------------------|
-| <img src="https://via.placeholder.com/300x200/8B5CF6/FFFFFF?text=Comparison+Tool" width="250"> | <img src="https://via.placeholder.com/300x200/F59E0B/FFFFFF?text=Mobile+Friendly" width="250"> |
+| <img src="https://1drv.ms/i/c/13de13d1ec99795c/ETNkBK8aLsVDiShHiZnsut0BKdVRSErx7RO1WI5TrTwIiA?e=Lckat0" width="250"> 
 
 </div>
 
@@ -59,7 +62,7 @@ A comprehensive, interactive web application for visualizing and comparing compu
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/algorithm-visualizer.git
+git clone https://github.com/dakshraut/algorithm-visualizer.git
 cd algorithm-visualizer
 ```
 
@@ -174,7 +177,7 @@ vercel
 npm install --save-dev gh-pages
 
 # Add to package.json
-"homepage": "https://yourusername.github.io/algorithm-visualizer",
+"homepage": "https://dakshraut.github.io/algorithm-visualizer",
 
 # Deploy
 npm run deploy
@@ -257,10 +260,9 @@ npm install
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+**Daksh Raut**
+- GitHub: [@dakshraut](https://github.com/dakshraut)
+- LinkedIn: [Your Profile](https://linkedin.com/in/www.linkedin.com/in/daksh-raut-a659b0250)
 
 ## 📜 License
 
@@ -289,17 +291,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Built with ❤️ using React and Tailwind CSS*
 
-**[🚀 Live Demo](https://your-deployed-link.vercel.app) | [📁 GitHub Repository](https://github.com/yourusername/algorithm-visualizer)**
+**[🚀 Live Demo](https://algorithm-visualizer-dakshraut.vercel.app) | [📁 GitHub Repository](https://github.com/dakshraut/algorithm-visualizer)**
 
 </div>
 
 ## 📞 Support
 
 If you have any questions or need help with the project:
-- Open an [Issue](https://github.com/yourusername/algorithm-visualizer/issues)
-- Check [Discussions](https://github.com/yourusername/algorithm-visualizer/discussions)
+- Open an [Issue](https://github.com/dakshraut/algorithm-visualizer/issues)
+- Check [Discussions](https://github.com/dakshraut/algorithm-visualizer/discussions)
 - Email: your.email@example.com
 
 ---
 
 **Happy Coding! 🎉**
+
+
