@@ -291,7 +291,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Built with ❤️ using React and Tailwind CSS*
 
-**[🚀 Live Demo](algorithm-visualizer-steel.vercel.app) | [📁 GitHub Repository](https://github.com/dakshraut/algorithm-visualizer.git)**
+**[📁 GitHub Repository](https://github.com/dakshraut/algorithm-visualizer.git)**
 
 </div>
 
