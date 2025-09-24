@@ -11,7 +11,7 @@ A comprehensive, interactive web application for visualizing and comparing compu
 
 ## 🌟 Live Demo
 
-**[👉 View Live Demo](https://algorithm-visualizer-dakshraut.vercel.app)**
+**[👉 View Live Demo](algorithm-visualizer-steel.vercel.app)**
 
 ## 📸 Preview
 
@@ -291,7 +291,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Built with ❤️ using React and Tailwind CSS*
 
-**[🚀 Live Demo](https://algorithm-visualizer-dakshraut.vercel.app) | [📁 GitHub Repository](https://github.com/dakshraut/algorithm-visualizer)**
+**[🚀 Live Demo](algorithm-visualizer-steel.vercel.app) | [📁 GitHub Repository](https://github.com/dakshraut/algorithm-visualizer.git)**
 
 </div>
 
