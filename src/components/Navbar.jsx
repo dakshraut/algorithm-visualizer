@@ -24,7 +24,7 @@ const Navbar = ({ currentPage, setCurrentPage }) => {
             className={`px-5 py-2 rounded-full font-semibold transition-all duration-300 transform hover:scale-105 ${
               currentPage === 'home' 
                 ? 'bg-white text-purple-600 shadow-lg' 
-                : 'bg-white bg-opacity-20 text-white hover:bg-opacity-30'
+                : 'text-white bg-purple-500/50 hover:bg-purple-500/70'
             }`}
             onClick={() => setCurrentPage('home')}
           >
@@ -41,7 +41,7 @@ const Navbar = ({ currentPage, setCurrentPage }) => {
             className={`px-5 py-2 rounded-full font-semibold transition-all duration-300 transform hover:scale-105 ${
               currentPage === 'comparison' 
                 ? 'bg-white text-purple-600 shadow-lg' 
-                : 'bg-white bg-opacity-20 text-white hover:bg-opacity-30'
+                : 'text-white bg-purple-500/50 hover:bg-purple-500/70'
             }`}
             onClick={() => setCurrentPage('comparison')}
           >
