@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/dakshraut/algorithm-visualizer.git",
   "name": "algorithm-visualizer",
   "private": true,
   "version": "0.0.0",
@@ -7,10 +8,12 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.13",
+    "gh-pages": "^6.3.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "tailwindcss": "^4.1.13"
